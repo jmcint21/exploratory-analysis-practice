@@ -6,7 +6,7 @@
 * Learing feature relationships using (scatterplot, heatmap correlation, pairplot and groupby comparisons)
 * Asked personal question about the data and then attempted to solve it.
 
-## Code Used
+## Data Source
 ** https://www.kaggle.com/datasets/robikscube/hourly-energy-consumption?resource=download&select=PJME_hourly.csv
 
 ## YouTube Project Walk-Through
